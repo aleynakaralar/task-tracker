@@ -1,0 +1,17 @@
+.header{
+    background-color: #267365;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 -5px 15px rgb(0 0 0 / 20%);
+    height: 500px;
+    margin-top: 30px;
+    width: 50%;
+}
+.add-taskbar{
+    background-color: rgba(253, 126, 8, 0.866);
+    border-radius: 5px;
+    padding: 15px;
+}
+button{
+    cursor: pointer;
+}
